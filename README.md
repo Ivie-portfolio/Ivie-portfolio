@@ -17,7 +17,7 @@ i'am an aspiring data analyst with a background in education now building insigh
 - Machine Language
 
 ## 📫 How to reach me: 
-[Linkedin](www.linkedin.com/in/ivie-ogbeide-9483ab3b4)
+[Linkedin](https://www.linkedin.com/in/ivie-ogbeide-9483ab3b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbkfP%2BBFfQDqKFjYVuMeGmA%3D%3D)
 
 
 <!--
