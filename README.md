@@ -10,7 +10,7 @@ i'am an aspiring data analyst with a background in education now building insigh
 - Google sheets
 
 # My projects
-- [addidas sales database] (...)
+- [addidas sales database] (https://github.com/Ivie-portfolio/Adidas-sales-database/blob/main/Screenshot%20(9).png)
 
 ## 🌱 I’m currently learning
 - Python for Data Science
